@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Omair12345
+- 👀 I’m interested in JavaScript
+- 🌱 I’m currently learning JavaScript
